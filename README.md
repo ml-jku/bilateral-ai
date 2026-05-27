@@ -34,7 +34,7 @@ The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and 
 ## Speakers
 
 - [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
-*More to be announced soon.*
+- *More to be announced soon.*
 
 ---
 
