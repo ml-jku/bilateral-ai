@@ -9,9 +9,9 @@
 
 ## Abstract
 
-Modern agentic AI systems consist of a **sub-symbolic large language model** paired with a **symbolic harness** that parses outputs, dispatches tools, and enforces control flow, which makes every deployed agent an instance of *bilateral AI*: the deliberate integration of sub-symbolic learning with symbolic representation and reasoning. Current agents nonetheless lose their goals across long tool-call sequences, fail to recognise when a task is complete, coordinate poorly with one another, and fail surprisingly on simple problems. These failures sit in bookkeeping, compositional planning, and reuse rather than in perception. Decades of work in neuro-symbolic AI and knowledge representation on data efficiency, adaptiveness, state-tracking, and hierarchical memory bear directly on these gaps, but currently reach the agent stack only by accident.
+Modern agentic AI systems consist of a **sub-symbolic large language model** paired with a **symbolic harness** that parses outputs, dispatches tools, and enforces control flow, which makes every deployed agent an instance of **bilateral AI**: the deliberate integration of sub-symbolic learning with symbolic representation and reasoning. Current agents nonetheless lose their goals across long tool-call sequences, fail to recognise when a task is complete, coordinate poorly with one another, and fail surprisingly on simple problems. These failures sit in bookkeeping, compositional planning, and reuse rather than in perception. Decades of work in neuro-symbolic AI and knowledge representation on data efficiency, adaptiveness, state-tracking, and hierarchical memory bear directly on these gaps, but currently reach agentic AI systms only by accident. This proposal considers agentic AI as neuro-symbolic systems, and treats the harness as a research object rather than infrastructure. .
 
-This workshop brings together three communities that meet only occasionally:
+The workshop brings together three communities that meet only occasionally:
 
 1. classical neuro-symbolic AI and knowledge representation,
 2. LLM agents and tool use,
@@ -29,7 +29,7 @@ This workshop brings together three communities that meet only occasionally:
 ---
 
 ## Supporters
-The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz), and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
+The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
 
 ## Speakers
 
