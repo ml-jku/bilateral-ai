@@ -21,15 +21,20 @@ This workshop brings together three communities that meet only occasionally:
 
 ## Organizers
 
-- Günter Klambauer
-- Robert Legenstein
-- TBA
+- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
+- [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
+- [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
+- [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz)
 
 ---
 
-## Invited Speakers
+## Supporters
+The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz), and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
 
-*To be announced.*
+## Speakers
+
+- [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
+*More to be announced soon.*
 
 ---
 
