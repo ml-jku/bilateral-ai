@@ -34,7 +34,8 @@ The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and 
 ## Speakers
 
 - [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
-- [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/) 
+- [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
+- [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
 - *More to be announced soon.*
 
 ---
