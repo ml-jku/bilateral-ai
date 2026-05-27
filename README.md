@@ -1,5 +1,5 @@
 # Bilateral AI Workshop @ NeurIPS 2026
-## NeurIPS Europe Workshop Proposal
+## Agentic Systems as Neuro-Symbolic Integration -- A NeurIPS Europe Workshop Proposal
 
 **Every LLM agent is a neuro-symbolic system: a neural network model inside a symbolic harness. Bridging three communities that need each other.**
 
