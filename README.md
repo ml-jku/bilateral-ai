@@ -29,13 +29,14 @@ The workshop brings together three communities that meet only occasionally:
 ---
 
 ## Supporters
-The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
+The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
 
 ## Speakers
 
 - [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
 - [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
 - [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
+- [Petar Veličković](https://petar-v.com/)
 - *More to be announced soon.*
 
 ---
