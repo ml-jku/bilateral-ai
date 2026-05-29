@@ -37,6 +37,7 @@ The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and 
 - [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
 - [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
 - [Petar Veličković](https://petar-v.com/)
+- [Michela Milano](https://www.unibo.it/sitoweb/michela.milano/en)
 - *More to be announced soon.*
 
 ---
