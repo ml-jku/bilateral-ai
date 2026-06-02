@@ -38,6 +38,7 @@ The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and 
 - [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
 - [Petar Veličković](https://petar-v.com/)
 - [Michela Milano](https://www.unibo.it/sitoweb/michela.milano/en)
+- [Marco Gori](https://ellis.eu/person/marco-gori)
 - *More to be announced soon.*
 
 ---
