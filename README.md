@@ -19,18 +19,6 @@ The workshop brings together three communities that meet only occasionally:
 
 ---
 
-## Organizers
-
-- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
-- [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
-- [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
-- [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz)
-
----
-
-## Supporters
-The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
-
 ## Speakers
 
 - [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
@@ -42,6 +30,20 @@ The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and 
 - *More to be announced soon.*
 
 ---
+
+## Organizers
+
+- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
+- [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
+- [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
+- [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
+
+---
+
+## Supporters
+The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
+
+
 
 ## Contact
 
