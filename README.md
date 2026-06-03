@@ -37,6 +37,7 @@ The workshop brings together three communities that meet only occasionally:
 - [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
 - [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
 - [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
+- [Mena Leemhuis](https://menaleemhuis.github.io/)
 
 ---
 
