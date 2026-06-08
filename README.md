@@ -23,23 +23,41 @@ The workshop brings together three communities that meet only occasionally:
 
 - [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
 - [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
-- [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
-- [Petar Veličković](https://petar-v.com/)
+- [Mario Zechner](https://mariozechner.at/)
 - [Michela Milano](https://www.unibo.it/sitoweb/michela.milano/en)
+- [Petar Veličković](https://petar-v.com/)
 - [Marco Gori](https://ellis.eu/person/marco-gori)
+- [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
 - *More to be announced soon.*
 
 ---
 
 ## Organizers
 
-- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
+- [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
 - [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
+- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
 - [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
-- [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
 - [Mena Leemhuis](https://menaleemhuis.github.io/)
+- [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
 
 ---
+
+
+## Preliminary Schedule
+| Time          | Duration | Session                                                                                                                                  |
+|---------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:00 – 9:10   | 10 min   | **Opening remarks**                                                                                                                       |
+| 9:10 – 10:20  | 70 min   | **Block 1**: 2 invited talks (20 min each) + 1 contributed talk (10 min) + **30 min discussion** |
+| 10:20 – 10:50 | 30 min   | ☕ **Morning coffee break & posters on display**                                                                                          |
+| 10:50 – 12:00 | 70 min   | **Block 2**: 2 invited (20 min) + 1 contributed (10 min) + **30 min discussion**                                  |
+| 12:00 – 13:00 | 60 min   | 🍽️ **Lunch break & posters on display**                                                                                                  |
+| 13:00 – 14:10 | 70 min   | **Block 3**: 2 invited (20 min) + 1 contributed (10 min) + **30 min discussion**                        |
+| 14:10 – 15:10 | 60 min   | **Block 4**: 1 invited (20 min) + 1 best-paper talk (15 min) + 1 contributed (10 min) + **15 min discussion** |
+| 15:10 – 15:40 | 30 min   | ☕ **Afternoon coffee break & posters on display**                                                                                        |
+| 15:40 – 16:40 | 60 min   | 🎙️ **Cross-community panel**                                                           |
+| 16:40 – 17:50 | 70 min   | 🖼️ **Dedicated poster session**                                                                                                          |
+| 17:50 – 18:00 | 10 min   | **Closing remarks & best-paper award**                                                                                                    |
 
 ## Supporters
 The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
