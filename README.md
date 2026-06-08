@@ -28,7 +28,6 @@ The workshop brings together three communities that meet only occasionally:
 - [Petar Veličković](https://petar-v.com/)
 - [Marco Gori](https://ellis.eu/person/marco-gori)
 - [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
-- *More to be announced soon.*
 
 ---
 
