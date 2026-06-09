@@ -93,23 +93,12 @@ The workshop brings together three communities that meet only occasionally:
 
 ## Organizers
 
-### [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
-*IDEAS Warsaw & ELLIS Unit Warsaw*
-
-### [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
-*TU Darmstadt & ELLIS Unit Darmstadt*
-
-### [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
-*JKU Linz & ELLIS Unit Linz*
-
-### [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
-*TU Graz & ELLIS Unit Graz*
-
-### [Mena Leemhuis](https://menaleemhuis.github.io/)
-*JKU Linz*
-
-### [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
-*Imperial College London*
+**[Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)**, *IDEAS Warsaw & ELLIS Unit Warsaw*  
+**[Kristian Kersting](https://ml-research.github.io/people/kkersting/)**, *TU Darmstadt & ELLIS Unit Darmstadt*  
+**[Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)**, *JKU Linz & ELLIS Unit Linz*  
+**[Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)**, *TU Graz & ELLIS Unit Graz*  
+**[Mena Leemhuis](https://menaleemhuis.github.io/)**, *JKU Linz*  
+**[Francesca Toni](https://www.doc.ic.ac.uk/~ft/)**, *Imperial College London*  
 
 ---
 
@@ -132,7 +121,7 @@ The workshop brings together three communities that meet only occasionally:
 | 17:50 – 18:00 | 10 min   | **Closing remarks & best-paper award**                                                                                                    |
 
 ## Supporters
-The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
+The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  [ELLIS unit Warsaw](https://ellis.eu/research/sites/unit-warsaw), and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
 
 
 
