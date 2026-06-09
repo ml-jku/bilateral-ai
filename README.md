@@ -93,27 +93,27 @@ The workshop brings together three communities that meet only occasionally:
 
 ### [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
 
-Human-centric AI researcher bridging cognitive science, psychology, and deep learning.
+<!-- Human-centric AI researcher bridging cognitive science, psychology, and deep learning. -->
 
 ### [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
 
-Leading researcher in statistical relational AI, neuro-symbolic AI, and interpretable machine learning.
+<!-- Leading researcher in statistical relational AI, neuro-symbolic AI, and interpretable machine learning. -->
 
 ### [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
 
-Deep learning researcher for life sciences and developer of self-normalizing neural networks.
+<!-- Deep learning researcher for life sciences and developer of self-normalizing neural networks. -->
 
 ### [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
 
-Computational neuroscience and neuro-symbolic AI researcher working on brain-inspired learning.
+<!-- Computational neuroscience and neuro-symbolic AI researcher working on brain-inspired learning. -->
 
 ### [Mena Leemhuis](https://menaleemhuis.github.io/)
 
-Neuro-symbolic AI researcher connecting knowledge graphs, ontologies, interpretability, and trustworthiness.
+<!-- Neuro-symbolic AI researcher connecting knowledge graphs, ontologies, interpretability, and trustworthiness. -->
 
 ### [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
 
-Explainable AI and computational argumentation expert studying machine arguing and reasoning.
+<!-- Explainable AI and computational argumentation expert studying machine arguing and reasoning. -->
 
 ---
 
