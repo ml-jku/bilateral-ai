@@ -91,29 +91,25 @@ The workshop brings together three communities that meet only occasionally:
 
 ## Organizers
 
-### [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
+## Organizers
 
-<!-- Human-centric AI researcher bridging cognitive science, psychology, and deep learning. -->
+### [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
+*IDEAS Warsaw & ELLIS Unit Warsaw*
 
 ### [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
-
-<!-- Leading researcher in statistical relational AI, neuro-symbolic AI, and interpretable machine learning. -->
+*TU Darmstadt & ELLIS Unit Darmstadt*
 
 ### [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
-
-<!-- Deep learning researcher for life sciences and developer of self-normalizing neural networks. -->
+*JKU Linz & ELLIS Unit Linz*
 
 ### [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
-
-<!-- Computational neuroscience and neuro-symbolic AI researcher working on brain-inspired learning. -->
+*TU Graz & ELLIS Unit Graz*
 
 ### [Mena Leemhuis](https://menaleemhuis.github.io/)
-
-<!-- Neuro-symbolic AI researcher connecting knowledge graphs, ontologies, interpretability, and trustworthiness. -->
+*JKU Linz*
 
 ### [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
-
-<!-- Explainable AI and computational argumentation expert studying machine arguing and reasoning. -->
+*Imperial College London*
 
 ---
 
