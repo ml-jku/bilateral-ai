@@ -21,13 +21,71 @@ The workshop brings together three communities that meet only occasionally:
 
 ## Speakers
 
-- [Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter)
-- [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)
-- [Mario Zechner](https://mariozechner.at/)
-- [Michela Milano](https://www.unibo.it/sitoweb/michela.milano/en)
-- [Petar Veličković](https://petar-v.com/)
-- [Marco Gori](https://ellis.eu/person/marco-gori)
-- [Barbara Hammer](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458)
+<table>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/hochreiter.png" width="130" alt="Sepp Hochreiter">
+    </td>
+    <td>
+      <h3><a href="https://en.wikipedia.org/wiki/Sepp_Hochreiter">Sepp Hochreiter</a></h3>
+      <p>Inventor of the LSTM and pioneer of modern deep learning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/kwiatkova.png" width="130" alt="Marta Kwiatkowska">
+    </td>
+    <td>
+      <h3><a href="https://www.cs.ox.ac.uk/people/marta.kwiatkowska/">Marta Kwiatkowska</a></h3>
+      <p>Leading voice on formal verification, probabilistic systems, and trustworthy AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/zechner.png" width="130" alt="Mario Zechner">
+    </td>
+    <td>
+      <h3><a href="https://mariozechner.at/">Mario Zechner</a></h3>
+      <p>Builder of Pi and sharp thinker on how coding agents should be wired.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/milano.png" width="130" alt="Michela Milano">
+    </td>
+    <td>
+      <h3><a href="https://www.unibo.it/sitoweb/michela.milano/en">Michela Milano</a></h3>
+      <p>Pioneer in combining machine learning with constraint-based reasoning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/velickovic.png" width="130" alt="Petar Velickovic">
+    </td>
+    <td>
+      <h3><a href="https://petar-v.com/">Petar Veličković</a></h3>
+      <p>Foundational graph neural networks researcher aligning neural models with algorithms.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/Gori.png" width="130" alt="Marco Gori">
+    </td>
+    <td>
+      <h3><a href="https://ellis.eu/person/marco-gori">Marco Gori</a></h3>
+      <p>Graph neural networks pioneer linking learning with structured representations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="./speaker-imgs/hammer.png" width="130" alt="Barbara Hammer">
+    </td>
+    <td>
+      <h3><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458">Barbara Hammer</a></h3>
+      <p>Expert in explainable, trustworthy learning for changing and structured data.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
