@@ -46,7 +46,7 @@ The workshop brings together three communities that meet only occasionally:
     </td>
     <td>
       <h3><a href="https://mariozechner.at/">Mario Zechner</a></h3>
-      <p>Builder of Pi and sharp thinker on how coding agents should be wired.</p>
+      <p>Builder of the harness Pi and sharp thinker on how coding agents should be wired.</p>
     </td>
   </tr>
   <tr>
@@ -91,12 +91,29 @@ The workshop brings together three communities that meet only occasionally:
 
 ## Organizers
 
-- [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
-- [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
-- [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
-- [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
-- [Mena Leemhuis](https://menaleemhuis.github.io/)
-- [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
+### [Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)
+
+Human-centric AI researcher bridging cognitive science, psychology, and deep learning.
+
+### [Kristian Kersting](https://ml-research.github.io/people/kkersting/)
+
+Leading researcher in statistical relational AI, neuro-symbolic AI, and interpretable machine learning.
+
+### [Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)
+
+Deep learning researcher for life sciences and developer of self-normalizing neural networks.
+
+### [Robert Legenstein](https://www.tugraz.at/institute/iml/people/prof-legenstein)
+
+Computational neuroscience and neuro-symbolic AI researcher working on brain-inspired learning.
+
+### [Mena Leemhuis](https://menaleemhuis.github.io/)
+
+Neuro-symbolic AI researcher connecting knowledge graphs, ontologies, interpretability, and trustworthiness.
+
+### [Francesca Toni](https://www.doc.ic.ac.uk/~ft/)
+
+Explainable AI and computational argumentation expert studying machine arguing and reasoning.
 
 ---
 
