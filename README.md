@@ -91,8 +91,6 @@ The workshop brings together three communities that meet only occasionally:
 
 ## Organizers
 
-## Organizers
-
 **[Karolina Drożdż](https://pl.linkedin.com/in/karolina-dro%C5%BCd%C5%BC)**, *IDEAS Warsaw & ELLIS Unit Warsaw*  
 **[Kristian Kersting](https://ml-research.github.io/people/kkersting/)**, *TU Darmstadt & ELLIS Unit Darmstadt*  
 **[Günter Klambauer](https://www.jku.at/en/institute-for-machine-learning/about-us/team/univ-prof-mag-dr-guenter-klambauer/)**, *JKU Linz & ELLIS Unit Linz*  
