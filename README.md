@@ -119,7 +119,7 @@ The workshop brings together three communities that meet only occasionally:
 | 17:50 – 18:00 | 10 min   | **Closing remarks & best-paper award**                                                                                                    |
 
 ## Supporters
-The workshop proposal is supported by the ELLIS program [Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  [ELLIS unit Warsaw](https://ellis.eu/research/sites/unit-warsaw), and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
+The workshop proposal is supported by the [ELLIS program Semantic, Symbolic and Interpretable Machine Learning](https://ellis.eu/research/programs/semantic-symbolic-and-interpretable-machine-learning), by [Austria's AI Excellence Cluster](https://www.bilateral-ai.net/), the [ELLIS unit Linz](https://ellis.eu/research/sites/unit-linz),the [ELLIS unit Vienna](https://ellis.eu/research/sites/unit-vienna),  [ELLIS unit Warsaw](https://ellis.eu/research/sites/unit-warsaw), and the [ELLIS unit Graz](https://ellis.eu/research/sites/unit-graz).
 
 
 
